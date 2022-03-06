@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._07_divergent_change._25_move_function;
+package me.whiteship.refactoring._07_divergent_change._25_move_function_sol;
 
 import org.junit.jupiter.api.Test;
 

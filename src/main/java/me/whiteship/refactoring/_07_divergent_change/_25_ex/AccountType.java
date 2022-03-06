@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._07_divergent_change._25_move_function;
+package me.whiteship.refactoring._07_divergent_change._25_ex;
 
 public class AccountType {
     private boolean premium;
