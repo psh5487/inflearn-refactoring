@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._07_divergent_change._26_extract_class;
+package me.whiteship.refactoring._07_divergent_change._26_ex;
 
 public class Person {
 

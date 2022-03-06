@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._07_divergent_change._24_split_phase;
+package me.whiteship.refactoring._07_divergent_change._24_split_phase_sol;
 
 public record ShippingMethod(double discountThreshold, double discountedFee, double feePerCase) {
 }
