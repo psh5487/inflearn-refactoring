@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._09_feature_envy;
+package me.whiteship.refactoring._09_feature_envy.sol;
 
 public class ElectricityUsage {
 
@@ -17,5 +17,9 @@ public class ElectricityUsage {
 
     public double getPricePerUnit() {
         return pricePerUnit;
+    }
+
+    public double getElectricityBill() {
+        return this.getAmount() * this.getPricePerUnit();
     }
 }

@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._09_feature_envy;
+package me.whiteship.refactoring._09_feature_envy.ex;
 
 public class Bill {
 
