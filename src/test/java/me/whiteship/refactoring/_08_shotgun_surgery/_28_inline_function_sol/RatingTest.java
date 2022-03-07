@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._08_shotgun_surgery._28_inline_function;
+package me.whiteship.refactoring._08_shotgun_surgery._28_inline_function_sol;
 
 import org.junit.jupiter.api.Test;
 

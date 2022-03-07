@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._08_shotgun_surgery._29_inline_class;
+package me.whiteship.refactoring._08_shotgun_surgery._29_ex;
 
 public class Shipment {
 

@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._08_shotgun_surgery._27_move_field;
+package me.whiteship.refactoring._08_shotgun_surgery._27_move_field_sol;
 
 import org.junit.jupiter.api.Test;
 
