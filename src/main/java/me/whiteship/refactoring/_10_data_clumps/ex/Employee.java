@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._10_data_clumps;
+package me.whiteship.refactoring._10_data_clumps.ex;
 
 public class Employee {
 
