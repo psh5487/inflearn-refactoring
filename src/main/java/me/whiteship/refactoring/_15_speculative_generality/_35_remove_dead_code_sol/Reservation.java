@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._15_speculative_generality._35_remove_dead_code;
+package me.whiteship.refactoring._15_speculative_generality._35_remove_dead_code_sol;
 
 import java.time.LocalDateTime;
 
