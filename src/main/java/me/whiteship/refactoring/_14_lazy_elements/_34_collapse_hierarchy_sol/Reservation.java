@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._14_lazy_elements._34_collapse_hierarchy;
+package me.whiteship.refactoring._14_lazy_elements._34_collapse_hierarchy_sol;
 
 import java.time.LocalDateTime;
 import java.util.List;
@@ -15,4 +15,5 @@ public class Reservation {
 
     private boolean paid;
 
+    private String courtNumber;
 }

@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._14_lazy_elements._34_collapse_hierarchy;
+package me.whiteship.refactoring._14_lazy_elements._34_ex;
 
 public class CourtReservation extends Reservation {
 
