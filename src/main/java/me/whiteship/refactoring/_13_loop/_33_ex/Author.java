@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._13_loop._33_replace_loop_with_pipeline;
+package me.whiteship.refactoring._13_loop._33_ex;
 
 import java.util.ArrayList;
 import java.util.List;
